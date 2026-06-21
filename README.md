@@ -1,17 +1,2 @@
 # ai-study-tracker
-This is readme file for ai-study tracker 
-ai-study-tracker/
-├── .github/workflows/       # GitHub Actions config (Week 2)
-│   └── ci-cd.yml
-├── backend/
-│   ├── src/
-│   │   ├── app.js           # Express app logic
-│   │   └── aiService.js     # AI Integration (Gemini/Ollama)
-│   ├── Dockerfile           # Docker configuration (Week 2)
-│   ├── package.json         # Node.js Build Tool configuration (Week 1)
-│   └── .env                 # Secret Keys (Week 3 - Never commit to Git!)
-├── frontend/                # Simple UI (HTML/JS or React)
-│   ├── index.html
-│   └── script.js
-├── Jenkinsfile              # Jenkins Automation Pipeline (Week 1)
-└── README.md
+<img width="504" height="229" alt="Screenshot 2026-06-21 081541" src="https://github.com/user-attachments/assets/82ce7cbe-ec31-4b7a-bf05-2b35c947780c" />
